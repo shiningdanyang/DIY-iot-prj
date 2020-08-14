@@ -1,0 +1,9 @@
+Added Component: Designator=R5(SM-RES-0805)
+Added Component: Designator=R6(SM-RES-0805)
+Added Pin To Net: NetName=NetLED3_1 Pin=R5-1
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=NetLED11_1 Pin=R6-1
+Added Pin To Net: NetName=VCC Pin=R6-2
+Added Member To Class: ClassName=BlueToothCar Member=Component R5 330
+Added Member To Class: ClassName=BlueToothCar Member=Component R6 330
+Added Room: Name=BlueToothCar

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=5V Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=RX Pin=C?-3
+Removed Pin From Net: NetName=TX Pin=C?-4
+Removed Pin From Net: NetName=D11 Pin=Servo-1
+Added Component: Designator=HC-05(JP4-C1T)
+Added Pin To Net: NetName=D8 Pin=C?-1
+Added Pin To Net: NetName=D9 Pin=C?-2
+Added Pin To Net: NetName=D12 Pin=C?-3
+Added Pin To Net: NetName=D13 Pin=C?-4
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=RX Pin=C?-3
+Added Pin To Net: NetName=TX Pin=C?-4
+Added Pin To Net: NetName=D3 Pin=Servo-1
+Added Room: Name=BlueToothCar

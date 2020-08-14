@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=D10 Pin=J2-3
+Added Pin To Net: NetName=D10 Pin=J2-2
+Change Net Name : Old Net Name=NetJ2_4 New Net Name=EN2
+Added Pin To Net: NetName=EN1 Pin=J2-3
+Added Pin To Net: NetName=EN1 Pin=U1-1
+Added Net: Name=EN1
+Added Room: Name=BlueToothCar

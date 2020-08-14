@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=5V Pin=Arduino?-5V
+Removed Pin From Net: NetName=5V Pin=jp1-4
+Added Pin To Net: NetName=NetArduino?_5V Pin=Arduino?-5V
+Added Pin To Net: NetName=NetArduino?_5V Pin=jp1-4
+Added Net: Name=NetArduino?_5V
+Added Member To Class: ClassName=BlueToothCar Member=Component  JP6 PIN
+Added Room: Name=BlueToothCar

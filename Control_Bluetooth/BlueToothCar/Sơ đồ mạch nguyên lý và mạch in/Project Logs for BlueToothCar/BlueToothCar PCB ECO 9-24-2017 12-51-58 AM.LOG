@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator= NewDesignator=jp1
+Change Component Designator: OldDesignator= NewDesignator=jp2
+Change Net Name : Old Net Name=Net_3 New Net Name=NetArduino?_RST
+Change Net Name : Old Net Name=Net_4 New Net Name=NetArduino?_5V
+Change Net Name : Old Net Name=Net_5 New Net Name=NetArduino?_A7
+Change Net Name : Old Net Name=Net_6 New Net Name=NetArduino?_A6
+Change Net Name : Old Net Name=Net_7 New Net Name=NetArduino?_A5
+Change Net Name : Old Net Name=Net_8 New Net Name=NetArduino?_A4
+Change Net Name : Old Net Name=Net_9 New Net Name=NetArduino?_A3
+Change Net Name : Old Net Name=Net_10 New Net Name=NetArduino?_D3
+Change Net Name : Old Net Name=Net_11 New Net Name=NetArduino?_D2
+Change Net Name : Old Net Name=Net_12 New Net Name=NetArduino?_A0
+Change Net Name : Old Net Name=Net_13 New Net Name=NetArduino?_REF
+Change Net Name : Old Net Name=Net_14 New Net Name=NetArduino?_3V3
+Added Pin To Net: NetName=NetArduino?_A1 Pin=Arduino?-A1
+Added Pin To Net: NetName=NetArduino?_A1 Pin=jp1-11
+Added Net: Name=NetArduino?_A1
+Added Pin To Net: NetName=NetArduino?_A2 Pin=Arduino?-A2
+Added Pin To Net: NetName=NetArduino?_A2 Pin=jp1-10
+Added Net: Name=NetArduino?_A2
+Added Member To Class: ClassName=BlueToothCar Member=Component jp1 JP15
+Added Member To Class: ClassName=BlueToothCar Member=Component jp2 JP15
+Added Room: Name=BlueToothCar

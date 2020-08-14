@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VCC Pin=IC?-1
+Removed Pin From Net: NetName=GND Pin=IC?-2
+Removed Pin From Net: NetName=GND Pin=IC?-2
+Removed Pin From Net: NetName=5V Pin=IC?-3
+Removed Member From Class: ClassName=BlueToothCar Member=IC?
+Added Component: Designator=C8(JP2-D1T)
+Added Component: Designator=IC1(QTO-220H3)
+Added Pin To Net: NetName=5V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=VCC Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=5V Pin=IC1-3
+Added Member To Class: ClassName=BlueToothCar Member=Component C8 JP2
+Added Member To Class: ClassName=BlueToothCar Member=Component IC1 LM7805
+Added Room: Name=BlueToothCar

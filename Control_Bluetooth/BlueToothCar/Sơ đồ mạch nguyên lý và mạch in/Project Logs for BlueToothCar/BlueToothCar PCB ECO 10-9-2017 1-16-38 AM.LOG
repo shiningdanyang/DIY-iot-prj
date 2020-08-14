@@ -1,0 +1,7 @@
+Added Component: Designator=SRF-05(JP4-C1T)
+Added Pin To Net: NetName=GND Pin=SRF-05-1
+Added Pin To Net: NetName=D6 Pin=SRF-05-2
+Added Pin To Net: NetName=D5 Pin=SRF-05-3
+Added Pin To Net: NetName=5V Pin=SRF-05-4
+Added Member To Class: ClassName=BlueToothCar Member=Component SRF-05 JP4
+Added Room: Name=BlueToothCar

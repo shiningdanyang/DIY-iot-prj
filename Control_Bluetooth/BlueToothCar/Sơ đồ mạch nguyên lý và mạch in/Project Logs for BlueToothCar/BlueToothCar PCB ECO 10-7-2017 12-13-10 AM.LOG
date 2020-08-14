@@ -1,0 +1,13 @@
+Added Component: Designator=C?(JP4-C1T)
+Added Component: Designator=HC-05(JP4-C1T)
+Added Pin To Net: NetName=D8 Pin=C?-1
+Added Pin To Net: NetName=D9 Pin=C?-2
+Added Pin To Net: NetName=D12 Pin=C?-3
+Added Pin To Net: NetName=D13 Pin=C?-4
+Added Pin To Net: NetName=5V Pin=HC-05-1
+Added Pin To Net: NetName=GND Pin=HC-05-2
+Added Pin To Net: NetName=RX Pin=HC-05-3
+Added Pin To Net: NetName=TX Pin=HC-05-4
+Added Member To Class: ClassName=BlueToothCar Member=Component C? JP4
+Added Member To Class: ClassName=BlueToothCar Member=Component HC-05 JP4
+Added Room: Name=BlueToothCar

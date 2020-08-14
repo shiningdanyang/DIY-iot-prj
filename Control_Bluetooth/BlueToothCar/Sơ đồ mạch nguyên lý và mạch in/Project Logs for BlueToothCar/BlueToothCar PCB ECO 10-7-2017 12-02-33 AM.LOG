@@ -1,0 +1,129 @@
+Removed Pin From Net: NetName=D5 Pin=-1
+Removed Pin From Net: NetName=D6 Pin=-2
+Removed Pin From Net: NetName=D7 Pin=-3
+Removed Pin From Net: NetName=D8 Pin=-4
+Removed Pin From Net: NetName=D9 Pin=-5
+Removed Pin From Net: NetName=D10 Pin=-6
+Removed Pin From Net: NetName=5V Pin=Arduino?-5V
+Removed Pin From Net: NetName=5V Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=RX Pin=C?-3
+Removed Pin From Net: NetName=TX Pin=C?-4
+Removed Pin From Net: NetName=VCC Pin=HD10-1
+Removed Pin From Net: NetName=GND Pin=HD10-2
+Removed Pin From Net: NetName=5V Pin=HD10-3
+Removed Pin From Net: NetName=5V Pin=jp1-4
+Removed Pin From Net: NetName=GND Pin=Q2-1
+Removed Pin From Net: NetName=GND Pin=Q3-1
+Removed Pin From Net: NetName=D12 Pin=R2-1
+Removed Pin From Net: NetName=D13 Pin=R3-1
+Removed Pin From Net: NetName=VCC Pin=R5-2
+Removed Pin From Net: NetName=VCC Pin=R6-2
+Removed Member From Class: ClassName=BlueToothCar Member=HD10
+Removed Member From Class: ClassName=BlueToothCar Member=LED3
+Removed Member From Class: ClassName=BlueToothCar Member=LED4
+Removed Member From Class: ClassName=BlueToothCar Member=LED5
+Removed Member From Class: ClassName=BlueToothCar Member=LED6
+Removed Member From Class: ClassName=BlueToothCar Member=LED7
+Removed Member From Class: ClassName=BlueToothCar Member=LED8
+Removed Member From Class: ClassName=BlueToothCar Member=LED9
+Removed Member From Class: ClassName=BlueToothCar Member=LED10
+Removed Member From Class: ClassName=BlueToothCar Member=LED11
+Removed Member From Class: ClassName=BlueToothCar Member=LED12
+Removed Member From Class: ClassName=BlueToothCar Member=LED13
+Removed Member From Class: ClassName=BlueToothCar Member=LED14
+Removed Member From Class: ClassName=BlueToothCar Member=LED15
+Removed Member From Class: ClassName=BlueToothCar Member=LED16
+Removed Member From Class: ClassName=BlueToothCar Member=LED17
+Removed Member From Class: ClassName=BlueToothCar Member=LED18
+Removed Member From Class: ClassName=BlueToothCar Member=Q2
+Removed Member From Class: ClassName=BlueToothCar Member=Q3
+Removed Member From Class: ClassName=BlueToothCar Member=R2
+Removed Member From Class: ClassName=BlueToothCar Member=R3
+Removed Member From Class: ClassName=BlueToothCar Member=R5
+Removed Member From Class: ClassName=BlueToothCar Member=R6
+Change Component Designator: OldDesignator=J? NewDesignator=Servo
+Added Component: Designator=C1(CP1.5/3.4)
+Added Component: Designator=C2(CP1.5/3.4)
+Added Component: Designator=C3(SM-0805)
+Added Component: Designator=HC-05(JP4-C1T)
+Added Component: Designator=HD3(HED2)
+Added Component: Designator=HD4(HED2)
+Added Component: Designator=IC?(QTO-220H3)
+Added Component: Designator=J2(JP2X2)
+Added Component: Designator=J3(JP2X2)
+Added Component: Designator=LS?(SPEAKER)
+Added Component: Designator=U1(DIP16)
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=D8 Pin=C?-1
+Added Pin To Net: NetName=D9 Pin=C?-2
+Added Pin To Net: NetName=D12 Pin=C?-3
+Added Pin To Net: NetName=D13 Pin=C?-4
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=RX Pin=C?-3
+Added Pin To Net: NetName=TX Pin=C?-4
+Added Pin To Net: NetName=VCC Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=5V Pin=IC?-3
+Added Pin To Net: NetName=D11 Pin=J2-1
+Added Pin To Net: NetName=D10 Pin=J2-3
+Added Pin To Net: NetName=D6 Pin=J3-1
+Added Pin To Net: NetName=D5 Pin=J3-2
+Added Pin To Net: NetName=D6 Pin=J3-3
+Added Pin To Net: NetName=D5 Pin=J3-4
+Added Pin To Net: NetName=5V Pin=LS?-1
+Added Pin To Net: NetName=D13 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=D12 Pin=U1-7
+Added Pin To Net: NetName=5V Pin=U1-8
+Added Pin To Net: NetName=D9 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=D8 Pin=U1-15
+Added Pin To Net: NetName=5V Pin=U1-16
+Change Net Name : Old Net Name=NetArduino?_D3 New Net Name=D3
+Added Pin To Net: NetName=D2 Pin=Arduino?-D2
+Added Pin To Net: NetName=D2 Pin=jp2-11
+Added Pin To Net: NetName=D2 Pin=LS?-2
+Added Net: Name=D2
+Added Pin To Net: NetName=NetArduino?_5V Pin=Arduino?-5V
+Added Pin To Net: NetName=NetArduino?_5V Pin=jp1-4
+Added Net: Name=NetArduino?_5V
+Added Pin To Net: NetName=NetHD3_1 Pin=HD3-1
+Added Pin To Net: NetName=NetHD3_1 Pin=U1-3
+Added Net: Name=NetHD3_1
+Added Pin To Net: NetName=NetHD3_2 Pin=HD3-2
+Added Pin To Net: NetName=NetHD3_2 Pin=U1-6
+Added Net: Name=NetHD3_2
+Added Pin To Net: NetName=NetHD4_1 Pin=HD4-1
+Added Pin To Net: NetName=NetHD4_1 Pin=U1-11
+Added Net: Name=NetHD4_1
+Added Pin To Net: NetName=NetHD4_2 Pin=HD4-2
+Added Pin To Net: NetName=NetHD4_2 Pin=U1-14
+Added Net: Name=NetHD4_2
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=U1-1
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_4 Pin=U1-9
+Added Net: Name=NetJ2_4
+Added Member To Class: ClassName=BlueToothCar Member=Component C1 1000uF/16V
+Added Member To Class: ClassName=BlueToothCar Member=Component C2 470uF/16V
+Added Member To Class: ClassName=BlueToothCar Member=Component C3 104
+Added Member To Class: ClassName=BlueToothCar Member=Component HC-05 JP4
+Added Member To Class: ClassName=BlueToothCar Member=Component HD3 Header 2
+Added Member To Class: ClassName=BlueToothCar Member=Component HD4 Header 2
+Added Member To Class: ClassName=BlueToothCar Member=Component IC? LM7805
+Added Member To Class: ClassName=BlueToothCar Member=Component J2 Jumper 2x2
+Added Member To Class: ClassName=BlueToothCar Member=Component J3 Jumper 2x2
+Added Member To Class: ClassName=BlueToothCar Member=Component LS? Speaker
+Added Member To Class: ClassName=BlueToothCar Member=Component U1 L293D
+Added Room: Name=BlueToothCar

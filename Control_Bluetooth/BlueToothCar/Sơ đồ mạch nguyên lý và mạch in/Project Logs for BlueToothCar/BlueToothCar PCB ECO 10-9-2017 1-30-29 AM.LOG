@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=SRF-05-1
+Removed Pin From Net: NetName=5V Pin=SRF-05-4
+Added Pin To Net: NetName=5V Pin=SRF-05-1
+Added Pin To Net: NetName=GND Pin=SRF-05-4
+Added Room: Name=BlueToothCar

@@ -1,0 +1,7 @@
+Added Component: Designator=InPut(JP4-C1T)
+Added Pin To Net: NetName=D8 Pin=InPut-1
+Added Pin To Net: NetName=D9 Pin=InPut-2
+Added Pin To Net: NetName=D12 Pin=InPut-3
+Added Pin To Net: NetName=D13 Pin=InPut-4
+Added Member To Class: ClassName=BlueToothCar Member=Component InPut JP4
+Added Room: Name=BlueToothCar
